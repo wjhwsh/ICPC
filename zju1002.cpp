@@ -1,3 +1,7 @@
+/*
+ZJU online just problem 1002: Fire Net
+http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1002
+*/
 #include <iostream>
 #include <math.h>
 
